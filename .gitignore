@@ -1,0 +1,11 @@
+# .gitignore
+.vscode
+
+# Dependencies
+/node_modules
+
+# Environment Variables
+.env
+
+# Logs
+*.log
